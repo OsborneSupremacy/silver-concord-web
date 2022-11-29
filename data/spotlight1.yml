@@ -1,7 +1,7 @@
 ####################### Spotlight #########################
 style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
 id: "first"
-title : "Spotlight"
+title : "Solutions"
 content: |
   We pride ourselves on being reliable, tenacious, problem solvers. Whether it’s building a full web API from scratch, integrating with cloud services, or fixing a bug, we’re dedicated to delivering business value for customers.
 button:
