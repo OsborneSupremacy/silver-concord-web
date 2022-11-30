@@ -4,7 +4,7 @@
 
 title = "Silver Concord LLC"
 theme = "hugo-story"
-baseURL = "https://osbornesupremacy.github.io/silver-concord-web/"
+baseURL = "http://www.silverconcord.com/"
 
 ## -----------------------------------------------
 ## Hugo Built-in Features
