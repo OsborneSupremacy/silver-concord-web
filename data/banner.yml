@@ -1,12 +1,12 @@
 ####################### Banner #########################
 style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
-title : "Silver Concord"
+title : "Silver Concord LLC"
 subtitle: |
   Software Consulting in Southeastern Wisconsin.
 content : |
   We are experienced software engineers, providing solutions for customers in a variety of industries, including insurance, healthcare, and financial services. We are committed to helping businesses implement and improve their software offerings.
 button:
-  label : "Get Started"
-  link : "#first"
+  label : "Solutions"
+  link : "#solutions"
 image : "images/banner.jpg"
 
