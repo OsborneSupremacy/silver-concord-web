@@ -1,10 +1,12 @@
 ####################### Spotlight #########################
 style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
 id: "location"
-title : "Located in Lake Country"
+title : "Low Overhead & Efficient"
 content: |
-  We're based in Southeastern Wisconsin. We work remotely, but we're willing to travel within the United States for periodic in-person meetings.
+  With no support staff, you will work directly with me. I offer a reasonable rate. My invoicing is prompt, accurate, and descriptive. No long-term contract is required.
+  <br /><br />
+  Let's talk about whether I can help with your software project!
 button:
-  label: "Contact Us"
+  label: "Contact Me"
   link: "mailto:info@silverconcord.com"
 image: "images/spotlight02.jpg"
