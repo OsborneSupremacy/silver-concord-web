@@ -3,7 +3,9 @@ style: "style1 orient-right content-align-left image-position-center onscroll-im
 id: "solutions"
 title : "Solutions"
 content: |
-  I pride myself on being a reliable, tenacious, problem solver. Whether it's building a full web API from scratch, integrating with cloud services, or fixing a bug, I'm dedicated to delivering business value for customers.
+  I pride myself on being a reliable, tenacious, problem solver. Whether it's standing up cloud resources, integrating with vendor APIs, or fixing a bug, I'm dedicated to delivering business value for customers.
+  <br /><br />
+  Having worked in industries dealing with sensitive data, I understand the importance of security and compliance. I develop solutions to be compliant with HIPAA, HITRUST, GDPR, and other applicable regulations.
 button:
   label: "Location"
   link : "#location"
