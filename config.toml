@@ -24,6 +24,5 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
   favicon = true
 
 [Params.social]
-  github = "https://github.com/OsborneSupremacy"
   email = "info@silverconcord.com"
   linkedin = "https://www.linkedin.com/in/benosborne/"
