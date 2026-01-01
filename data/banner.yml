@@ -2,9 +2,9 @@
 style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
 title : "Silver Concord LLC"
 subtitle: |
-  Software Consulting in Southeastern Wisconsin.
+  AWS Consulting in Southeastern Wisconsin.
 content : |
-  I am an experienced software engineer, providing solutions for customers in a variety of industries, including insurance, healthcare, and financial services. I am committed to helping businesses implement and improve their software offerings.
+  I am an experienced AWS certified solutions architect, providing solutions for customers in a variety of industries, including insurance, healthcare, and financial services. I am committed to helping businesses implement and improve their AWS cloud infrastructure to achieve their goals in an efficient and cost-effective manner.
 button:
   label : "Solutions"
   link : "#solutions"
