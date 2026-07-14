@@ -1,13 +1,18 @@
 ####################### Spotlight #########################
 style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
-id: "solutions"
-title : "Solutions"
+id: "aws-capabilities"
+title : "Deep, Hands-On AWS Experience"
 content: |
-  I pride myself on being a reliable, tenacious, problem solver. Using my expertise in AWS cloud architecture and software engineering, I design and implement solutions that meet my clients' unique needs and help them achieve their business objectives.
+  I build production systems with the AWS services that fit the problem—not a one-size-fits-all stack.
   <br /><br />
-  Having worked in industries dealing with sensitive data, I understand the importance of security and compliance. I develop solutions to be compliant with HIPAA, HITRUST, GDPR, and other applicable regulations.
+  <strong>Compute:</strong> Lambda, ECS, and AWS Batch.<br />
+  <strong>Application integration &amp; messaging:</strong> EventBridge, Amazon MQ, SQS, SNS, SES, and End User Messaging.<br />
+  <strong>Data &amp; storage:</strong> DynamoDB, Aurora Serverless, S3, EFS, and AWS Transfer Family.<br />
+  <strong>Networking &amp; delivery:</strong> VPC, CloudFront, API Gateway, Route 53, and WAF.<br />
+  <strong>Security &amp; operations:</strong> IAM, IAM Identity Center, AWS Organizations, KMS, SSM, CloudWatch, GuardDuty, Security Hub, and the AWS Well-Architected Tool.<br />
+  <strong>End-user computing:</strong> Amazon WorkSpaces.
 button:
-  label: "Location"
-  link : "#location"
+  label: "Experience"
+  link : "#experience"
   style: "background-color-red"
 image: "images/spotlight01.jpg"

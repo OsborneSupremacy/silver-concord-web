@@ -1,14 +1,14 @@
 ####################### Spotlight #########################
 style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
-id: "location"
-title : "Low Overhead & Efficient"
+id: "experience"
+title : "Proven in Production"
 content: |
-  With no support staff, you will work directly with me. I offer a reasonable rate. My invoicing is prompt, accurate, and descriptive. No long-term contract is required.
+  I am an <strong>AWS Certified Solutions Architect – Associate</strong> and have spoken at AWS Community Day events. I have delivered AWS systems for multimillion-dollar companies and startups, including organizations in healthcare, insurance, and financial services.
   <br /><br />
-  I can usually implement solutions using serverless technologies, making them scalable and cost-effective.
+  My work includes serverless workloads, multi-account landing zones, cloud security, and production platforms. Experience in regulated industries shapes how I approach identity, encryption, observability, resilience, and compliance from the beginning—not as an afterthought.
   <br /><br />
-  Let's talk about whether I can help with your software project!
+  You will work directly with me: a tenacious engineer who can move from architecture to implementation without layers of overhead or a long-term contract.
 button:
-  label: "Contact Me"
+  label: "Discuss Your AWS Project"
   link: "mailto:info@silverconcord.com"
 image: "images/spotlight02.jpg"

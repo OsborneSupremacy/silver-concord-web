@@ -2,11 +2,12 @@
 style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
 title : "Silver Concord LLC"
 subtitle: |
-  AWS Consulting in Southeastern Wisconsin.
+  AWS architecture and cloud engineering—from idea to production.
 content : |
-  I am an experienced AWS certified solutions architect, providing solutions for customers in a variety of industries, including insurance, healthcare, and financial services. I am committed to helping businesses implement and improve their AWS cloud infrastructure to achieve their goals in an efficient and cost-effective manner.
+  I help startups and established companies design, build, and improve secure AWS systems. From serverless applications to multi-account landing zones, I turn complex requirements into reliable, cost-conscious solutions.
+  <br /><br />
+  <strong>If it is possible on AWS, I will figure out how to make it work for your business.</strong>
 button:
-  label : "Solutions"
-  link : "#solutions"
+  label : "AWS Capabilities"
+  link : "#aws-capabilities"
 image : "images/banner.jpg"
-

@@ -19,10 +19,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 ## -----------------------------------------------
 
 [Params]
-  description = "Software Consulting in Southeastern Wisconsin"
+  description = "AWS architecture and cloud engineering consulting for secure, scalable, and compliant production systems."
   logo = "images/banner.jpg"
   favicon = true
 
-[Params.social]
-  email = "info@silverconcord.com"
-  linkedin = "https://www.linkedin.com/in/benosborne/"
