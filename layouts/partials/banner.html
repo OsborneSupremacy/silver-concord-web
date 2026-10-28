@@ -1,0 +1,14 @@
+<!-- Banner -->
+<section class="banner {{ .style }}">
+    <div class="content">
+        {{ with .logo }}<h1 class="banner-logo"><img src="{{ . }}" alt="{{ $.title }}" style="display: block; width: 100%; max-width: 30rem; height: auto;" /></h1>{{ else }}{{ with .title }}<h1>{{ . }}</h1>{{ end }}{{ end }}
+        {{ with .subtitle }}<p class="major">{{ . | safeHTML }}</p>{{ end }}
+        {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
+        {{ with .button }}<ul class="actions stacked">
+            <li><a href="{{ .link }}" class="button primary large wide smooth-scroll-middle">{{ .label }}</a></li>
+        </ul>{{ end }}
+    </div>
+    {{ with .image }}<div class="image">
+        <img src="{{.}}" alt="{{ $.title }}" />
+    </div>{{end}}
+</section>
