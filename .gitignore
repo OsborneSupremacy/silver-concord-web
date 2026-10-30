@@ -14,3 +14,6 @@ hugo.linux
 
 # JetBrains IDEs
 /.idea/
+
+# macOS Finder metadata
+.DS_Store
